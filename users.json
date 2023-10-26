@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "Admin",
+      "address": "123 Main St, City, Country",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "role": "User",
+      "address": "456 Elm St, Town, Country",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "name": "Ahmed Hassan",
+      "email": "ahmed@example.com",
+      "role": "User",
+      "address": "789 Oak St, Village, Country",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Johnson",
+      "email": "sarah@example.com",
+      "role": "Admin",
+      "address": "101 Pine St, Hamlet, Country",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "name": "Mark Taylor",
+      "email": "mark@example.com",
+      "role": "User",
+      "address": "222 Cedar St, Suburb, Country",
+      "image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-774909.jpg&fm=jpg&_gl=1*3d93vo*_ga*MTM4MTg1MDg4NS4xNjgxNDA3MDk4*_ga_8JE65Q40S6*MTY5ODIzMjA4Ni4zMC4xLjE2OTgyMzM1MDkuMC4wLjA."
+    },
+    {
+      "id": 6,
+      "name": "Emily Lewis",
+      "email": "emily@example.com",
+      "role": "User",
+      "address": "333 Birch St, Outskirts, Country",
+      "image": "https://images.pexels.com/photos/3088526/pexels-photo-3088526.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "id": 7,
+      "name": "David Wilson",
+      "email": "david@example.com",
+      "role": "Admin",
+      "address": "444 Willow St, Rural, Country",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Brown",
+      "email": "olivia@example.com",
+      "role": "User",
+      "address": "555 Sycamore St, Countryside, Country",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Clark",
+      "email": "daniel@example.com",
+      "role": "Admin",
+      "address": "666 Maple St, Farmland, Country",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 10,
+      "name": "Linda David",
+      "email": "linda@example.com",
+      "role": "User",
+      "address": "777 Pine St, Hamlet, Country",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 11,
+      "name": "Johnson Adams",
+      "email": "Johnson@example.com",
+      "role": "Admin",
+      "address": "888 Cedar St, Suburb, Country",
+      "image":"https://images.pexels.com/photos/3088526/pexels-photo-3088526.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "id": 12,
+      "name": "Taylor Adams",
+      "email": "Taylor@example.com",
+      "role": "User",
+      "address": "999 Oak St, Village, Country",
+      "image": "/images/taylor.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Mark Adams",
+      "email": "Mark@example.com",
+      "role": "Admin",
+      "address": "1010 Elm St, Town, Country",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
